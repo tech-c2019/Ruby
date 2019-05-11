@@ -1,18 +1,13 @@
 # Lecture
-Ruby講義の資料一式
+Ruby課題資料一覧
 
-- 松本アカウント  
-https://github.com/y-matsumoto
+## 提出期限
+基本は課題を与えられた授業の当日中に提出すること。(次回授業までが期限)  
+ ※当日欠席または課題作成が間に合わない場合は、次回授業までに提出すること。  
+ 期限を過ぎてからの提出は基本プルリクエストを承認しません。   
+ 再提出の場合はコメントを確認しプルリクエストを修正してください。
 
-- 授業用グループ
-https://github.com/tech-c2019
-
-- 授業資料
-https://github.com/tech-c2019/Ruby/tree/master/lecture
-
-- 課題提出先  
-https://github.com/tech-c2019/Ruby/tree/master/task
-
-## license
-- ドキュメント内容: [CC-BY](http://creativecommons.org/licenses/by/4.0/)
-- コード一式: [MIT License](http://opensource.org/licenses/mit-license.php)
+## 成績について
+前期・後期にそれぞれ行った課題数(授業により変動あり)の指定数以下の提出の場合は、 出席率などに関わらず補習(D 判定)とします。  
+※プルリクエストの数ではなく Github に承認され取り込まれた数で判定  
+授業の態度・姿勢を評価するため、考えてもできない課題の場合も、できたところまでを 評価するため、提出は必ずおこなうこと。  
