@@ -1,3 +1,4 @@
 submit/*/*
 !.rb
 !.gitkeep
+!*.rb
