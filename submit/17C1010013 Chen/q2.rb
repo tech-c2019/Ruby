@@ -1,6 +1,6 @@
 #課題1
-puts "挨拶の数字を入力してください："
 #case
+puts "挨拶の数字を入力してください："
 greet = gets.to_i
 case greet
 when 4..10 then
