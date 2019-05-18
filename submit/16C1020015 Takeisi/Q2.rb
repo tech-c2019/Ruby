@@ -8,6 +8,19 @@ elsif a > 10 && a < 19
 elsif a > 18 && a <= 25 || a >= 0 && a <= 4
 	s = "こんばんは"
 end
+pits s
+case a
+when 1..3 then
+	s = "こんばんは"
+when 4..10 then
+	s ="おはよう"
+when 11..18 then
+	s = "こんにちは"
+when 19..24 then
+	s = "こんばんは"
+else
+	s = "ちゃんとした時間入れて"
+end
 puts s
 #課題２回答
 height = ARGV[1].to_i
