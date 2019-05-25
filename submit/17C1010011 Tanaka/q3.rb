@@ -26,3 +26,5 @@ puts ''
 		puts num
 	end
 }
+
+# name tanaka hiroki
