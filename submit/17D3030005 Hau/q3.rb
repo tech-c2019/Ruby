@@ -1,5 +1,5 @@
 #five times
-for i in 1..5
+5.times do
 	print"hello world\n"
 end	
 
@@ -29,10 +29,3 @@ puts "``\n"
     end
     end
 
-#method
-def div(a,b)
-    return a-b
-end
-
-ans = div(3,2)
-puts ans
