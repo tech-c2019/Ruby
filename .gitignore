@@ -1,2 +1,3 @@
 submit/*/*
 !.gitkeep
+!*.rb
