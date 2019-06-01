@@ -1,6 +1,7 @@
-for i in 1..3 do
-    for j in 1..3 do
-        print  "0",i*j, " "
+a = gets.chomp.to_i
+for i in 1..a do
+    for j in 1..a do
+        print  i*j, " "
     end
     puts
 end
