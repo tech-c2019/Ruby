@@ -1,10 +1,10 @@
-#�ۑ�P
+#課題１
 
 5.times{
 	puts"Hello World!\n"
 }
 
-#�ۑ�Q
+#課題２
 
 #(1...100).each{|n| p n}
 
@@ -15,7 +15,7 @@ end
 print "\n"
 end
 
-#�ۑ�R 
+#課題３ 
 
 (1..100).each do |a|
 	if a % 15 == 0
@@ -30,7 +30,7 @@ end
 end
 puts"\n"
 
-#�ۑ�S
+#課題４
 
 x = gets.to_i 
 y = gets.to_i
