@@ -1,11 +1,11 @@
-## 1.Hello World![æ”¹è¡Œ]ã‚’5å›žè¡¨ç¤ºã•ã›ã‚‹ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‚’å®Œæˆã•ã›ã‚ˆ
+## 1.Hello World![‰üs]‚ð5‰ñ•\Ž¦‚³‚¹‚éƒvƒƒOƒ‰ƒ€‚ðŠ®¬‚³‚¹‚æ
 5.times do
   puts "Hello world!"
 end
 
-## 2.ä¸‹è¨˜çµæžœã¨ãªã‚‹ä¹ä¹è¡¨ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‚’å®Œæˆã•ã›ã‚ˆ
+## 2.‰º‹LŒ‹‰Ê‚Æ‚È‚é‹ã‹ã•\ƒvƒƒOƒ‰ƒ€‚ðŠ®¬‚³‚¹‚æ
 
-### æœŸå¾…ã™ã‚‹å‡ºåŠ›
+### Šú‘Ò‚·‚éo—Í
 
 print "~~~\n"
 (1 .. 9).each do |i|
@@ -19,7 +19,7 @@ end
 print "~~~\n"
 
 
-## 3.ä¸‹è¨˜æ¡ä»¶ã«å¾“ã„FizzBuzzãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‚’å®Œæˆã•ã›ã‚ˆ
+## 3.‰º‹LðŒ‚É]‚¢FizzBuzzƒvƒƒOƒ‰ƒ€‚ðŠ®¬‚³‚¹‚æ
 
 (1..100).each do |i|
 if i%15 == 0
