@@ -15,7 +15,7 @@ end
 print "\n"
 end
 
-#‰Û‘è‚R
+#‰Û‘è‚R 
 
 (1..100).each do |a|
 	if a % 15 == 0
