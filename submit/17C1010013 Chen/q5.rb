@@ -24,11 +24,11 @@ puts Test.foo
 
 puts "------------------------------"
 ## 2.特異メソッドを使う
-hello = Test.new()
+hello = "hello world"
 
 class << hello
     def print
-        puts "data: hello world"
+        puts "data: #{self}"
     end
 end
 hello.print
