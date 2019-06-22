@@ -2,8 +2,8 @@ module Hoge
   def foo
     "Foo" + bar
   end
-    
-  private_class_method
+
+private 
   def bar
     "Bar"
   end
@@ -13,4 +13,6 @@ class Test
     extend Hoge
 end
 
-puts Test.foo()
+puts Test.foo
+
+
