@@ -29,4 +29,5 @@ class << hello
     end
 end
 
+
 hello.print
