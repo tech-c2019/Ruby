@@ -28,6 +28,9 @@ p list
 #-------------------------------
 #3
 fl = {apple: 100,banana: 500, pynappel: 400, meron: 200}
+sum = 0
 fl.each do |key,value|
     print "#{key} = #{value} yen \n"
+    sum += value
 end
+print "sum = #{sum}"
