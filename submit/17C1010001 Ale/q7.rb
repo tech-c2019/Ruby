@@ -6,14 +6,10 @@ p list
 
 ## 2.数値配列aと数値配列bの各要素を足し合わせた結果を配列で返すsum_arrayメソッドを作成せよ
 
-def sum_array(a,b)
-c = []
-a.zip(b){|a,b| c << a + b}
-return c
-end
-a = [1,2,3]
-b = [4,5,6]
-p sum_array(a,b)
+array1 = [1,2,3]
+array2 = [4,5,6]
+sum_array =[array1[0]+array2[0],array1[1]+array2[1],array1[2]+array2[2]]
+p sum_array
 
 
 
