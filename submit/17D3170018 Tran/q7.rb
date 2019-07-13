@@ -36,4 +36,3 @@ p ar3.uniq
 ar4 = [5,6,1,3,4]
 
 p ar4.sort
-
