@@ -25,3 +25,7 @@ fuirts.each do |key,value|
     sum += value
 end
 print "sum = #{sum}"
+
+
+
+#

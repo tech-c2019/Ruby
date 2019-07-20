@@ -50,4 +50,4 @@ if name == true && phone == true && addres == true && email == true
         ")
 else 
     puts "出ないはずのエラーだよ"
-end 
+   end 
