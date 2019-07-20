@@ -46,7 +46,7 @@ end
 end
 if name == true && phone == true && address == true && e-mail == true
     puts"all things inserted... complete"
-    print("Name#{name}\n Telephone number#{phone}\n Post number#{addres}\n E-mail address#{email}\n")
+    print("Name#{name}\n Telephone number#{phone}\n Post number#{address}\n E-mail address#{e-mail}\n")
 else 
     puts "@Error!!!"
 end 
