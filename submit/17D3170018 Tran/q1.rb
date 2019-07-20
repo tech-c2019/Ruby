@@ -1,1 +1,0 @@
-pust "hello world"
